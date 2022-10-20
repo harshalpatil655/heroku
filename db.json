@@ -28,5 +28,49 @@
       "batch_name": "WEB-18",
       "profession": "FSD"
     }
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Rinku",
+      "age": 2,
+      "place": "kolhapur",
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Coco",
+      "age": 1,
+      "place": "Pune",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Juju",
+      "age": 5,
+      "place": "Patna",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "Rocky",
+      "age": 7,
+      "place": "Hydrabad",
+      "gender": "Female"
+    }
   ]
 }
