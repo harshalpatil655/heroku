@@ -11,66 +11,24 @@
       "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
     }
   ],
-  "users": [
+  "cars": [
     {
       "id": 1,
-      "name": "Chandra",
-      "age": 29,
-      "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
-    },
-    {
-      "id": 1,
-      "name": "Nrupul",
-      "age": 32,
-      "place": "Vijayawada",
-      "batch_name": "WEB-18",
-      "profession": "FSD"
-    }
-  ],
-  "dogs": [
-    {
-      "id": 1,
-      "name": "Cherry",
-      "age": 2,
-      "place": "Visakhapatnam",
-      "gender": "Male"
+      "brand": "Tata",
+      "type": "Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
     },
     {
       "id": 2,
-      "name": "Tommy",
-      "age": 3,
-      "place": "Banglore",
-      "gender": "Female"
-    },
-    {
-      "id": 3,
-      "name": "Rinku",
-      "age": 2,
-      "place": "kolhapur",
-      "gender": "Female"
-    },
-    {
-      "id": 4,
-      "name": "Coco",
-      "age": 1,
-      "place": "Pune",
-      "gender": "Male"
-    },
-    {
-      "id": 5,
-      "name": "Juju",
-      "age": 5,
-      "place": "Patna",
-      "gender": "Female"
-    },
-    {
-      "id": 6,
-      "name": "Rocky",
-      "age": 7,
-      "place": "Hydrabad",
-      "gender": "Female"
+      "brand": "Tata",
+      "type": "AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ]
 }
